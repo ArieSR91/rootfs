@@ -1,0 +1,2 @@
+# rootfs
+Linux rootfs
